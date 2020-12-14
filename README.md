@@ -1,2 +1,2 @@
-# Share-India
-Share files over wifi
+# Sharify
+Share files over wifi on Android
