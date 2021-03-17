@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">ShareIndia</string>
     <string name="appDescription">Share photo, apps, music, games over wifi.</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Apps</string>
+    <string name="tab_text_2">Images</string>
+    <string name="tab_text_3">Video</string>
+    <string name="tab_text_4">Files</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
