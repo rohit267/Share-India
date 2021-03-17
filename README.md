@@ -1,2 +1,2 @@
 # Sharify
-Share files over wifi on Android
+Share files over wifi/Nearby Sharing on Android
